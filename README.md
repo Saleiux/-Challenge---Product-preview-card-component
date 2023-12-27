@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: challenge-preview-card-component.netlify.app
+- Live Site URL: https://challenge-preview-card-component.netlify.app/
 
 ## My process
 
