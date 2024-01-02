@@ -14,26 +14,22 @@ body {
     
 }
 
+
+
+
 @media screen and (max-width: 770px) {
     .card {
       width: auto;
       height: auto;
+      
     }
   }
 
 
 @media screen and (max-width: 770px) {
-    img {
+    .img-parfume {
       max-width: 30%;
-      height: auto;
-
-    }
-  }
-
-@media screen and (max-width: 770px) {
-    .card-body {
-        max-width: 30%;
-        margin-right: 0px;
+      margin: 20px;
     }
   }
 
